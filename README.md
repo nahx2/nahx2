@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nahx2's%20git😼&fontSize=90&animation=fadeIn&fontAlignY=38&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nahx2's%20git😼&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 <!--
 **nahx2/nahx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
