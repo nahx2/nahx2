@@ -15,9 +15,9 @@
 
 ### 👩🏻‍💻 stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dms873&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahx2&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dms873)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahx2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
