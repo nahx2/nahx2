@@ -13,15 +13,6 @@
 <br>
 
 
-### 👩🏻‍💻 stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahx2&show_icons=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahx2)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-
 
 
 <!--
